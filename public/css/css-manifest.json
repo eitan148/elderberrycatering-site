@@ -1,0 +1,144 @@
+{
+  "stylesheets": [
+    {
+      "src": "https://www.elderberrycatering.com/wp-includes/css/dist/block-library/style-rtl.min.css?ver=6.9.4",
+      "local": "/css/style-rtl.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min.css?ver=5.4.10.4",
+      "local": "/css/kk-star-ratings.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/pojo-accessibility/modules/legacy/assets/css/style.min.css?ver=1.0.0",
+      "local": "/css/style.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.7",
+      "local": "/css/reset.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.7",
+      "local": "/css/theme.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.7",
+      "local": "/css/header-footer.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/elementor/assets/css/conditionals/dialog.min.css?ver=4.0.7",
+      "local": "/css/dialog.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.0.7",
+      "local": "/css/frontend.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/uploads/elementor/css/post-7.css?ver=1778383738",
+      "local": "/css/post-7.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/elementor/assets/css/widget-image-rtl.min.css?ver=4.0.7",
+      "local": "/css/widget-image-rtl.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/pro-elements/assets/css/widget-nav-menu-rtl.min.css?ver=3.29.0",
+      "local": "/css/widget-nav-menu-rtl.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/pro-elements/assets/css/modules/sticky.min.css?ver=3.29.0",
+      "local": "/css/sticky.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/elementor/assets/css/widget-heading-rtl.min.css?ver=4.0.7",
+      "local": "/css/widget-heading-rtl.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/pro-elements/assets/css/widget-form-rtl.min.css?ver=3.29.0",
+      "local": "/css/widget-form-rtl.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+      "local": "/css/swiper.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.0.7",
+      "local": "/css/e-swiper.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/pro-elements/assets/css/widget-gallery-rtl.min.css?ver=3.29.0",
+      "local": "/css/widget-gallery-rtl.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0",
+      "local": "/css/e-gallery.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/pro-elements/assets/css/conditionals/transitions.min.css?ver=3.29.0",
+      "local": "/css/transitions.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/pro-elements/assets/css/widget-sitemap-rtl.min.css?ver=3.29.0",
+      "local": "/css/widget-sitemap-rtl.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/pro-elements/assets/css/widget-table-of-contents-rtl.min.css?ver=3.29.0",
+      "local": "/css/widget-table-of-contents-rtl.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/pro-elements/assets/css/widget-post-navigation-rtl.min.css?ver=3.29.0",
+      "local": "/css/widget-post-navigation-rtl.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/uploads/elementor/css/post-39.css?ver=1778383738",
+      "local": "/css/post-39.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/uploads/elementor/css/post-46.css?ver=1778383738",
+      "local": "/css/post-46.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/uploads/elementor/css/post-87.css?ver=1778383739",
+      "local": "/css/post-87.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742225724",
+      "local": "/css/roboto.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742225726",
+      "local": "/css/robotoslab.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/uploads/elementor/google-fonts/css/rubik.css?ver=1742225729",
+      "local": "/css/rubik.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1742225733",
+      "local": "/css/montserrat.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/uploads/elementor/google-fonts/css/assistant.css?ver=1742225734",
+      "local": "/css/assistant.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/luckywp-table-of-contents/front/assets/main.min.css?ver=2.1.14",
+      "local": "/css/main.min.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/seo-by-rank-math/assets/front/css/rank-math-contact-info.css?ver=1.0.269",
+      "local": "/css/rank-math-contact-info.css"
+    },
+    {
+      "src": "https://www.elderberrycatering.com/wp-content/plugins/elementor/assets/css/conditionals/lightbox.min.css?ver=4.0.7",
+      "local": "/css/lightbox.min.css"
+    },
+    {
+      "src": "__inline__",
+      "local": "/css/inline-combined.css"
+    },
+    {
+      "src": "__inline_full__",
+      "local": "/css/inline-full.css"
+    }
+  ]
+}

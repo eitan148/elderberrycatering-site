@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Source stylesheets target the WP/Elementor DOM that we render verbatim
+   via dangerouslySetInnerHTML. Do NOT reset descendants of .wp-html-section. */
+
+html, body {
+  background: #fff;
+  color: #333;
+  font-family: var(--font-assistant), Assistant, "Heebo", system-ui, sans-serif;
+}
