@@ -84,7 +84,9 @@ export async function POST(req: Request) {
 
   try {
     revalidatePath(`/${slug}`);
+    revalidatePath(`/${slug}/`);
     revalidatePath("/");
+    revalidatePath("/sitemap.xml");
   } catch {}
 
   return NextResponse.json({ ok: true, slug, type, route: `/${slug}` });

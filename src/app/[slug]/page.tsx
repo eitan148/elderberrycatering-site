@@ -4,6 +4,9 @@ import { getPageBySlug, listAllRoutableSlugs } from "@/lib/content-store";
 import { PageShell } from "@/components/PageShell";
 import { ContactShell } from "@/components/ContactShell";
 
+export const dynamicParams = true;     // allow runtime SSR for slugs added after build
+export const revalidate = 60;          // ISR: re-check content every 60s
+
 export async function generateStaticParams() {
   const all = listAllRoutableSlugs();
   return all.map((p) => ({ slug: p.slug }));
