@@ -6,7 +6,9 @@ import { listSourceStylesheets, getChrome } from "@/lib/content-store";
 const SITE = {
   name: "קייטרינג אלדברי",
   alternateName: "Elderberry Catering",
-  url: "https://www.elderberrycatering.com",
+  // NEXT_PUBLIC_SITE_URL controls metadataBase. Set to the live deployment URL pre-DNS-cutover
+  // (so canonical/og:image resolve to a real host). Default falls back to the production domain.
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://www.elderberrycatering.com",
   description:
     "קייטרינג בד\"ץ העדה החרדית כשר למהדרין. שירות מקצועי לאירועים גדולים: חתונות, בריתות, ברי ובנות מצווה, ועוד.",
   locale: "he_IL",
