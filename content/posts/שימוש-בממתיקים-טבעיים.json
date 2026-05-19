@@ -1,0 +1,64 @@
+{
+  "slug": "שימוש-בממתיקים-טבעיים",
+  "url_original": "https://www.elderberrycatering.com/%d7%a9%d7%99%d7%9e%d7%95%d7%a9-%d7%91%d7%9e%d7%9e%d7%aa%d7%99%d7%a7%d7%99%d7%9d-%d7%98%d7%91%d7%a2%d7%99%d7%99%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "שימוש בממתיקים טבעיים מ-₪45 למנה • אלדברי",
+    "description": "כולנו אוהבים מתוק. המתוק מביא איתו שמחה, נחמה וטעם נפלא. אבל כשאנחנו חושבים על מתוק, הרבה פעמים אנחנו חושבים ישר על סוכר לבן, שלפעמים כדאי להפחית ממנו. למרבה",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/שימוש-בממתיקים-טבעיים"
+  },
+  "h1": "שימוש בממתיקים טבעיים",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "3be6062cbb8dba66",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a9%d7%99%d7%9e%d7%95%d7%a9-%d7%91%d7%9e%d7%9e%d7%aa%d7%99%d7%a7%d7%99%d7%9d-%d7%98%d7%91%d7%a2%d7%99%d7%99%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a9%d7%99%d7%9e%d7%95%d7%a9-%d7%91%d7%9e%d7%9e%d7%aa%d7%99%d7%a7%d7%99%d7%9d-%d7%98%d7%91%d7%a2%d7%99%d7%99%d7%9d/",
+                "name": "שימוש בממתיקים טבעיים"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

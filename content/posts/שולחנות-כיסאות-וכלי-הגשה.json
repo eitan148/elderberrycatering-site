@@ -1,0 +1,60 @@
+{
+  "slug": "שולחנות-כיסאות-וכלי-הגשה",
+  "url_original": "https://www.elderberrycatering.com/%d7%a9%d7%95%d7%9c%d7%97%d7%a0%d7%95%d7%aa-%d7%9b%d7%99%d7%a1%d7%90%d7%95%d7%aa-%d7%95%d7%9b%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%94/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "שולחנות, כיסאות וכלי הגשה מ-₪45 למנה • אלדברי",
+    "description": "היי לכולם! האם אתם אוהבים מסיבות? מי לא אוהב! בטח אתם חושבים קודם כל על אוכל טעים, מוזיקה כיפית ואנשים שמחים. וזה נכון! אבל דמיינו לרגע מסיבה בלי מקום לשבת,",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/שולחנות-כיסאות-וכלי-הגשה"
+  },
+  "h1": "שולחנות, כיסאות וכלי הגשה",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "2657979c97b6d0e9",
+    "h2": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a9%d7%95%d7%9c%d7%97%d7%a0%d7%95%d7%aa-%d7%9b%d7%99%d7%a1%d7%90%d7%95%d7%aa-%d7%95%d7%9b%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%94/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a9%d7%95%d7%9c%d7%97%d7%a0%d7%95%d7%aa-%d7%9b%d7%99%d7%a1%d7%90%d7%95%d7%aa-%d7%95%d7%9b%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%94/",
+                "name": "שולחנות, כיסאות וכלי הגשה"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

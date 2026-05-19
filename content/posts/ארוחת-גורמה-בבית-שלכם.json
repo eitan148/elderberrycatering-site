@@ -1,0 +1,64 @@
+{
+  "slug": "ארוחת-גורמה-בבית-שלכם",
+  "url_original": "https://www.elderberrycatering.com/%d7%90%d7%a8%d7%95%d7%97%d7%aa-%d7%92%d7%95%d7%a8%d7%9e%d7%94-%d7%91%d7%91%d7%99%d7%aa-%d7%a9%d7%9c%d7%9b%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "ארוחת גורמה בבית שלכם מ-₪45 למנה • אלדברי",
+    "description": "האם אתם מדמיינים ערב שבו אתם נהנים מארוחה מיוחדת וטעימה, כזו שמגישים במסעדות יוקרה, אבל ממש בבית שלכם? דמיינו שולחן ערוך יפהפה, ריחות מגרים של תבשילים",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/ארוחת-גורמה-בבית-שלכם"
+  },
+  "h1": "ארוחת גורמה בבית שלכם",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "aeb7abdc8df65e8b",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%90%d7%a8%d7%95%d7%97%d7%aa-%d7%92%d7%95%d7%a8%d7%9e%d7%94-%d7%91%d7%91%d7%99%d7%aa-%d7%a9%d7%9c%d7%9b%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%90%d7%a8%d7%95%d7%97%d7%aa-%d7%92%d7%95%d7%a8%d7%9e%d7%94-%d7%91%d7%91%d7%99%d7%aa-%d7%a9%d7%9c%d7%9b%d7%9d/",
+                "name": "ארוחת גורמה בבית שלכם"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

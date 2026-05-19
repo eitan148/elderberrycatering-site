@@ -1,0 +1,64 @@
+{
+  "slug": "מרקים-חמים-ואוכל-מנחם",
+  "url_original": "https://www.elderberrycatering.com/%d7%9e%d7%a8%d7%a7%d7%99%d7%9d-%d7%97%d7%9e%d7%99%d7%9d-%d7%95%d7%90%d7%95%d7%9b%d7%9c-%d7%9e%d7%a0%d7%97%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "מרקים חמים ואוכל מנחם מ-₪45 למנה • אלדברי",
+    "description": "האם יש משהו יותר טוב מלהתכרבל עם קערת מרק מהבילה ביום קר, או לנגוס במאכל שמיד מעלה חיוך ומחזיר אתכם לזיכרונות ילדות מתוקים? כנראה שלא. מרקים חמים ואוכל מנחם",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/מרקים-חמים-ואוכל-מנחם"
+  },
+  "h1": "מרקים חמים ואוכל מנחם",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "817381cbd8f9a942",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%9e%d7%a8%d7%a7%d7%99%d7%9d-%d7%97%d7%9e%d7%99%d7%9d-%d7%95%d7%90%d7%95%d7%9b%d7%9c-%d7%9e%d7%a0%d7%97%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%9e%d7%a8%d7%a7%d7%99%d7%9d-%d7%97%d7%9e%d7%99%d7%9d-%d7%95%d7%90%d7%95%d7%9b%d7%9c-%d7%9e%d7%a0%d7%97%d7%9d/",
+                "name": "מרקים חמים ואוכל מנחם"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

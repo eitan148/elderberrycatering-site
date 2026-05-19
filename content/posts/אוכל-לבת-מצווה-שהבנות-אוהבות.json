@@ -1,0 +1,64 @@
+{
+  "slug": "אוכל-לבת-מצווה-שהבנות-אוהבות",
+  "url_original": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%9c%d7%91%d7%aa-%d7%9e%d7%a6%d7%95%d7%95%d7%94-%d7%a9%d7%94%d7%91%d7%a0%d7%95%d7%aa-%d7%90%d7%95%d7%94%d7%91%d7%95%d7%aa/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "אוכל לבת מצווה שהבנות אוהבות מ-₪45 למנה • אלדברי",
+    "description": "חגיגת בת מצווה היא אירוע מיוחד ומרגש מאוד! זה לא רק יום הולדת, אלא ציון דרך משמעותי שבו ילדה הופכת לנערה. יש הרבה דברים חשובים בתכנון בת מצווה, כמו שמלה יפה,",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/אוכל-לבת-מצווה-שהבנות-אוהבות"
+  },
+  "h1": "אוכל לבת מצווה שהבנות אוהבות",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "bf68634bf0addd91",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%9c%d7%91%d7%aa-%d7%9e%d7%a6%d7%95%d7%95%d7%94-%d7%a9%d7%94%d7%91%d7%a0%d7%95%d7%aa-%d7%90%d7%95%d7%94%d7%91%d7%95%d7%aa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%9c%d7%91%d7%aa-%d7%9e%d7%a6%d7%95%d7%95%d7%94-%d7%a9%d7%94%d7%91%d7%a0%d7%95%d7%aa-%d7%90%d7%95%d7%94%d7%91%d7%95%d7%aa/",
+                "name": "אוכל לבת מצווה שהבנות אוהבות"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "תפריטים-דלי-קלוריות",
+  "url_original": "https://www.elderberrycatering.com/%d7%aa%d7%a4%d7%a8%d7%99%d7%98%d7%99%d7%9d-%d7%93%d7%9c%d7%99-%d7%a7%d7%9c%d7%95%d7%a8%d7%99%d7%95%d7%aa/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "תפריטים דלי קלוריות מ-₪45 למנה • אלדברי",
+    "description": "היי לכולם! בטח שמעתם פעם את המילה \"קלוריות\", נכון? לפעמים זה נשמע קצת מבלבל, אבל בעצם זה פשוט דרך למדוד את כמות האנרגיה שיש באוכל שלנו. כמו שרכב צריך דלק כדי",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/תפריטים-דלי-קלוריות"
+  },
+  "h1": "תפריטים דלי קלוריות",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "eb1f54fe9efd9fba",
+    "h2": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%aa%d7%a4%d7%a8%d7%99%d7%98%d7%99%d7%9d-%d7%93%d7%9c%d7%99-%d7%a7%d7%9c%d7%95%d7%a8%d7%99%d7%95%d7%aa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%aa%d7%a4%d7%a8%d7%99%d7%98%d7%99%d7%9d-%d7%93%d7%9c%d7%99-%d7%a7%d7%9c%d7%95%d7%a8%d7%99%d7%95%d7%aa/",
+                "name": "תפריטים דלי קלוריות"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

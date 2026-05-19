@@ -1,0 +1,64 @@
+{
+  "slug": "טאפאס-בר-לחלוק-עם-חברים",
+  "url_original": "https://www.elderberrycatering.com/%d7%98%d7%90%d7%a4%d7%90%d7%a1-%d7%91%d7%a8-%d7%9c%d7%97%d7%9c%d7%95%d7%a7-%d7%a2%d7%9d-%d7%97%d7%91%d7%a8%d7%99%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "טאפאס בר: לחלוק עם חברים מ-₪45 למנה • אלדברי",
+    "description": "האם אתם אוהבים לאכול עם חברים? לדמיין שאתם יושבים יחד, צוחקים, וכל אחד טועם קצת מכל דבר? אם כן, ברוכים הבאים לעולם הקסום של הטאפאס! טאפאס הוא סוג של אוכל",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/טאפאס-בר-לחלוק-עם-חברים"
+  },
+  "h1": "טאפאס בר: לחלוק עם חברים",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "5c7ae9001e438683",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%98%d7%90%d7%a4%d7%90%d7%a1-%d7%91%d7%a8-%d7%9c%d7%97%d7%9c%d7%95%d7%a7-%d7%a2%d7%9d-%d7%97%d7%91%d7%a8%d7%99%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%98%d7%90%d7%a4%d7%90%d7%a1-%d7%91%d7%a8-%d7%9c%d7%97%d7%9c%d7%95%d7%a7-%d7%a2%d7%9d-%d7%97%d7%91%d7%a8%d7%99%d7%9d/",
+                "name": "טאפאס בר: לחלוק עם חברים"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

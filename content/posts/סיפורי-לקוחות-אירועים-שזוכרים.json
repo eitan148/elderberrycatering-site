@@ -1,0 +1,64 @@
+{
+  "slug": "סיפורי-לקוחות-אירועים-שזוכרים",
+  "url_original": "https://www.elderberrycatering.com/%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%99-%d7%9c%d7%a7%d7%95%d7%97%d7%95%d7%aa-%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d-%d7%a9%d7%96%d7%95%d7%9b%d7%a8%d7%99%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "סיפורי לקוחות: אירועים שזוכרים מ-₪45 למנה • אלדברי",
+    "description": "כולנו אוהבים אירועים, נכון? בין אם זו מסיבת יום הולדת צבעונית, מפגש משפחתי חם או אולי אפילו אירוע גדול ומיוחד בעבודה של ההורים, יש משהו קסום ברגעים האלה. אבל",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/סיפורי-לקוחות-אירועים-שזוכרים"
+  },
+  "h1": "סיפורי לקוחות: אירועים שזוכרים",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "d2bf50f44034b73e",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%99-%d7%9c%d7%a7%d7%95%d7%97%d7%95%d7%aa-%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d-%d7%a9%d7%96%d7%95%d7%9b%d7%a8%d7%99%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%99-%d7%9c%d7%a7%d7%95%d7%97%d7%95%d7%aa-%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d-%d7%a9%d7%96%d7%95%d7%9b%d7%a8%d7%99%d7%9d/",
+                "name": "סיפורי לקוחות: אירועים שזוכרים"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "שוקולד-מריר-איכותי",
+  "url_original": "https://www.elderberrycatering.com/%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93-%d7%9e%d7%a8%d7%99%d7%a8-%d7%90%d7%99%d7%9b%d7%95%d7%aa%d7%99/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "שוקולד מריר איכותי מ-₪45 למנה • אלדברי",
+    "description": "ברוכים הבאים לעולם הקסום של השוקולד המריר! אם אי פעם טעמתם ריבוע קטן של שוקולד כהה ועשיר, וחשבתם לעצמכם \"וואו, איזה טעם מיוחד!\", אתם לא לבד. שוקולד מריר",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/שוקולד-מריר-איכותי"
+  },
+  "h1": "שוקולד מריר איכותי",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "aca07dab49060a16",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93-%d7%9e%d7%a8%d7%99%d7%a8-%d7%90%d7%99%d7%9b%d7%95%d7%aa%d7%99/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93-%d7%9e%d7%a8%d7%99%d7%a8-%d7%90%d7%99%d7%9b%d7%95%d7%aa%d7%99/",
+                "name": "שוקולד מריר איכותי"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

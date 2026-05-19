@@ -1,0 +1,64 @@
+{
+  "slug": "זו-הסיבה-שאנחנו-קמים-בבוקר",
+  "url_original": "https://www.elderberrycatering.com/%d7%96%d7%95-%d7%94%d7%a1%d7%99%d7%91%d7%94-%d7%a9%d7%90%d7%a0%d7%97%d7%a0%d7%95-%d7%a7%d7%9e%d7%99%d7%9d-%d7%91%d7%91%d7%95%d7%a7%d7%a8/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "זו הסיבה שאנחנו קמים בבוקר מ-₪45 למנה • אלדברי",
+    "description": "השמש מתחילה לזרוח, השעון המעורר מצלצל, ואנחנו פוקחים את העיניים לעוד יום חדש. לפעמים קל לקום מהמיטה, ולפעמים קצת יותר קשה. אבל האם אי פעם עצרתם לחשוב: למה",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/זו-הסיבה-שאנחנו-קמים-בבוקר"
+  },
+  "h1": "זו הסיבה שאנחנו קמים בבוקר",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "554225d1ad36ddbe",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%96%d7%95-%d7%94%d7%a1%d7%99%d7%91%d7%94-%d7%a9%d7%90%d7%a0%d7%97%d7%a0%d7%95-%d7%a7%d7%9e%d7%99%d7%9d-%d7%91%d7%91%d7%95%d7%a7%d7%a8/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%96%d7%95-%d7%94%d7%a1%d7%99%d7%91%d7%94-%d7%a9%d7%90%d7%a0%d7%97%d7%a0%d7%95-%d7%a7%d7%9e%d7%99%d7%9d-%d7%91%d7%91%d7%95%d7%a7%d7%a8/",
+                "name": "זו הסיבה שאנחנו קמים בבוקר"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

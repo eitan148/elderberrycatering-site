@@ -1,0 +1,64 @@
+{
+  "slug": "חגיגת-50-שנות-נישואין",
+  "url_original": "https://www.elderberrycatering.com/%d7%97%d7%92%d7%99%d7%92%d7%aa-50-%d7%a9%d7%a0%d7%95%d7%aa-%d7%a0%d7%99%d7%a9%d7%95%d7%90%d7%99%d7%9f/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "חגיגת 50 שנות נישואין מ-₪45 למנה • אלדברי",
+    "description": "האם אתם מכירים זוג שחוגג חמישים שנות נישואין? זהו ציון דרך מדהים, ממש כמו סיפור אגדה שהתגשם! חמישים שנה יחד זו חצי מאה שלמה, מלאה בחוויות, צחוקים, אתגרים,",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/חגיגת-50-שנות-נישואין"
+  },
+  "h1": "חגיגת 50 שנות נישואין",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "2e979949b3da9422",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%97%d7%92%d7%99%d7%92%d7%aa-50-%d7%a9%d7%a0%d7%95%d7%aa-%d7%a0%d7%99%d7%a9%d7%95%d7%90%d7%99%d7%9f/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%97%d7%92%d7%99%d7%92%d7%aa-50-%d7%a9%d7%a0%d7%95%d7%aa-%d7%a0%d7%99%d7%a9%d7%95%d7%90%d7%99%d7%9f/",
+                "name": "חגיגת 50 שנות נישואין"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

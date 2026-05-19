@@ -1,0 +1,64 @@
+{
+  "slug": "הגשה-על-כלים-מיוחדים",
+  "url_original": "https://www.elderberrycatering.com/%d7%94%d7%92%d7%a9%d7%94-%d7%a2%d7%9c-%d7%9b%d7%9c%d7%99%d7%9d-%d7%9e%d7%99%d7%95%d7%97%d7%93%d7%99%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "הגשה על כלים מיוחדים מ-₪45 למנה • אלדברי",
+    "description": "האם אי פעם תהיתם איך קייטרינג מצליח להכין כל כך הרבה אוכל טעים ומושלם לאירועים גדולים? סוד הקסם לא נמצא רק בידי השפים המוכשרים ובחומרי הגלם הטריים, אלא גם",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/הגשה-על-כלים-מיוחדים"
+  },
+  "h1": "הגשה על כלים מיוחדים",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "d298ef8fb5c8232e",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%94%d7%92%d7%a9%d7%94-%d7%a2%d7%9c-%d7%9b%d7%9c%d7%99%d7%9d-%d7%9e%d7%99%d7%95%d7%97%d7%93%d7%99%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%94%d7%92%d7%a9%d7%94-%d7%a2%d7%9c-%d7%9b%d7%9c%d7%99%d7%9d-%d7%9e%d7%99%d7%95%d7%97%d7%93%d7%99%d7%9d/",
+                "name": "הגשה על כלים מיוחדים"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

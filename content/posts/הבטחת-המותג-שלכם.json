@@ -1,0 +1,64 @@
+{
+  "slug": "הבטחת-המותג-שלכם",
+  "url_original": "https://www.elderberrycatering.com/%d7%94%d7%91%d7%98%d7%97%d7%aa-%d7%94%d7%9e%d7%95%d7%aa%d7%92-%d7%a9%d7%9c%d7%9b%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "הבטחת המותג שלכם מ-₪45 למנה • אלדברי",
+    "description": "הבטחת המותג שלכם: מה זה אומר בכלל?",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/הבטחת-המותג-שלכם"
+  },
+  "h1": "הבטחת המותג שלכם",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "b4e68b6283c2b9e2",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%94%d7%91%d7%98%d7%97%d7%aa-%d7%94%d7%9e%d7%95%d7%aa%d7%92-%d7%a9%d7%9c%d7%9b%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%94%d7%91%d7%98%d7%97%d7%aa-%d7%94%d7%9e%d7%95%d7%aa%d7%92-%d7%a9%d7%9c%d7%9b%d7%9d/",
+                "name": "הבטחת המותג שלכם"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

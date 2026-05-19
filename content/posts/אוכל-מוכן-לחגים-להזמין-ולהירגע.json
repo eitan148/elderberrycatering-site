@@ -1,0 +1,64 @@
+{
+  "slug": "אוכל-מוכן-לחגים-להזמין-ולהירגע",
+  "url_original": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%9e%d7%95%d7%9b%d7%9f-%d7%9c%d7%97%d7%92%d7%99%d7%9d-%d7%9c%d7%94%d7%96%d7%9e%d7%99%d7%9f-%d7%95%d7%9c%d7%94%d7%99%d7%a8%d7%92%d7%a2/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "אוכל מוכן לחגים - להזמין ולהירגע מ-₪45 למנה • אלדברי",
+    "description": "החגים הם תקופה מיוחדת במינה. כל המשפחה מתכנסת יחד, יש הרבה שמחה, צחוקים ורגעים בלתי נשכחים. ילדים אוהבים את החגים כי אפשר לשחק, לפגוש את כל הדודים והדודות,",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/אוכל-מוכן-לחגים-להזמין-ולהירגע"
+  },
+  "h1": "אוכל מוכן לחגים – להזמין ולהירגע",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "bef715b4fa6f6825",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%9e%d7%95%d7%9b%d7%9f-%d7%9c%d7%97%d7%92%d7%99%d7%9d-%d7%9c%d7%94%d7%96%d7%9e%d7%99%d7%9f-%d7%95%d7%9c%d7%94%d7%99%d7%a8%d7%92%d7%a2/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%9e%d7%95%d7%9b%d7%9f-%d7%9c%d7%97%d7%92%d7%99%d7%9d-%d7%9c%d7%94%d7%96%d7%9e%d7%99%d7%9f-%d7%95%d7%9c%d7%94%d7%99%d7%a8%d7%92%d7%a2/",
+                "name": "אוכל מוכן לחגים &#8211; להזמין ולהירגע"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

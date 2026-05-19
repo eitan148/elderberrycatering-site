@@ -1,0 +1,64 @@
+{
+  "slug": "קייטרינג-דרום-אמריקאי-בשרים-וצימיצו",
+  "url_original": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%93%d7%a8%d7%95%d7%9d-%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99-%d7%91%d7%a9%d7%a8%d7%99%d7%9d-%d7%95%d7%a6%d7%99%d7%9e%d7%99%d7%a6%d7%95/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "קייטרינג דרום אמריקאי: בשרים וצ'ימיצ'ורי מ-₪45 למנה • אלדברי",
+    "description": "גלו את העולם המופלא של קייטרינג דרום אמריקאי, עם דגש על בשרים עסיסיים ורוטב הצ'ימיצ'ורי המפורסם. חוויה קולינרית שתשמח כל אחד, מילדים ועד מבוגרים.",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/קייטרינג-דרום-אמריקאי-בשרים-וצימיצו"
+  },
+  "h1": "קייטרינג דרום אמריקאי: בשרים וצ'ימיצ'ורי",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "13d53498ff157d97",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%93%d7%a8%d7%95%d7%9d-%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99-%d7%91%d7%a9%d7%a8%d7%99%d7%9d-%d7%95%d7%a6%d7%99%d7%9e%d7%99%d7%a6%d7%95/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%93%d7%a8%d7%95%d7%9d-%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99-%d7%91%d7%a9%d7%a8%d7%99%d7%9d-%d7%95%d7%a6%d7%99%d7%9e%d7%99%d7%a6%d7%95/",
+                "name": "קייטרינג דרום אמריקאי: בשרים וצ'ימיצ'ורי"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

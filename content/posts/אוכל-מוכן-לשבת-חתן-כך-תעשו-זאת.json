@@ -1,0 +1,64 @@
+{
+  "slug": "אוכל-מוכן-לשבת-חתן-כך-תעשו-זאת",
+  "url_original": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%9e%d7%95%d7%9b%d7%9f-%d7%9c%d7%a9%d7%91%d7%aa-%d7%97%d7%aa%d7%9f-%d7%9b%d7%9a-%d7%aa%d7%a2%d7%a9%d7%95-%d7%96%d7%90%d7%aa/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "אוכל מוכן לשבת חתן - כך תעשו זאת מ-₪45 למנה • אלדברי",
+    "description": "אוכל מוכן לשבת חתן - כך תעשו זאת שבת חתן היא אירוע מיוחד ומרגש בחיים של כל משפחה. זוהי הזדמנות נפלאה לחגוג יחד עם החתן, הכלה, בני המשפחה הקרובים וחברים, רגע",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/אוכל-מוכן-לשבת-חתן-כך-תעשו-זאת"
+  },
+  "h1": "אוכל מוכן לשבת חתן – כך תעשו זאת",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "d84f7d2412e64139",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%9e%d7%95%d7%9b%d7%9f-%d7%9c%d7%a9%d7%91%d7%aa-%d7%97%d7%aa%d7%9f-%d7%9b%d7%9a-%d7%aa%d7%a2%d7%a9%d7%95-%d7%96%d7%90%d7%aa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%9e%d7%95%d7%9b%d7%9f-%d7%9c%d7%a9%d7%91%d7%aa-%d7%97%d7%aa%d7%9f-%d7%9b%d7%9a-%d7%aa%d7%a2%d7%a9%d7%95-%d7%96%d7%90%d7%aa/",
+                "name": "אוכל מוכן לשבת חתן &#8211; כך תעשו זאת"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

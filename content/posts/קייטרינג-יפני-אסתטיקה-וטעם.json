@@ -1,0 +1,60 @@
+{
+  "slug": "קייטרינג-יפני-אסתטיקה-וטעם",
+  "url_original": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%99%d7%a4%d7%a0%d7%99-%d7%90%d7%a1%d7%aa%d7%98%d7%99%d7%a7%d7%94-%d7%95%d7%98%d7%a2%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "קייטרינג יפני: אסתטיקה וטעם מ-₪45 למנה • אלדברי",
+    "description": "האוכל היפני הוא חוויה שלמה – לא רק טעם, אלא גם יופי לעיניים. תחשבו על צלחת שנראית כמו יצירת אמנות! קייטרינג יפני מביא את הקסם הזה ישירות אליכם, והופך כל אירוע",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/קייטרינג-יפני-אסתטיקה-וטעם"
+  },
+  "h1": "קייטרינג יפני: אסתטיקה וטעם",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "44f3b87036c6ed01",
+    "h2": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%99%d7%a4%d7%a0%d7%99-%d7%90%d7%a1%d7%aa%d7%98%d7%99%d7%a7%d7%94-%d7%95%d7%98%d7%a2%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%99%d7%a4%d7%a0%d7%99-%d7%90%d7%a1%d7%aa%d7%98%d7%99%d7%a7%d7%94-%d7%95%d7%98%d7%a2%d7%9d/",
+                "name": "קייטרינג יפני: אסתטיקה וטעם"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

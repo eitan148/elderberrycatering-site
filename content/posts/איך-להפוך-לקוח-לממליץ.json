@@ -1,0 +1,64 @@
+{
+  "slug": "איך-להפוך-לקוח-לממליץ",
+  "url_original": "https://www.elderberrycatering.com/%d7%90%d7%99%d7%9a-%d7%9c%d7%94%d7%a4%d7%95%d7%9a-%d7%9c%d7%a7%d7%95%d7%97-%d7%9c%d7%9e%d7%9e%d7%9c%d7%99%d7%a5/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "איך להפוך לקוח לממליץ? מ-₪45 למנה • אלדברי",
+    "description": "האם אתם מנהלים עסק? חברת קייטרינג, חנות צעצועים או אפילו סתם דוכן לימונדה קטן? בטח שמתם לב שלקוחות מרוצים הם הדבר הכי טוב שיכול לקרות לעסק שלכם. אבל מה קורה",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/איך-להפוך-לקוח-לממליץ"
+  },
+  "h1": "איך להפוך לקוח לממליץ?",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "9b1d627d3505e6ca",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%90%d7%99%d7%9a-%d7%9c%d7%94%d7%a4%d7%95%d7%9a-%d7%9c%d7%a7%d7%95%d7%97-%d7%9c%d7%9e%d7%9e%d7%9c%d7%99%d7%a5/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%90%d7%99%d7%9a-%d7%9c%d7%94%d7%a4%d7%95%d7%9a-%d7%9c%d7%a7%d7%95%d7%97-%d7%9c%d7%9e%d7%9e%d7%9c%d7%99%d7%a5/",
+                "name": "איך להפוך לקוח לממליץ?"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

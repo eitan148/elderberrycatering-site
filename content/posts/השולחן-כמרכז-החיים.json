@@ -1,0 +1,64 @@
+{
+  "slug": "השולחן-כמרכז-החיים",
+  "url_original": "https://www.elderberrycatering.com/%d7%94%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%9b%d7%9e%d7%a8%d7%9b%d7%96-%d7%94%d7%97%d7%99%d7%99%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "השולחן כמרכז החיים מ-₪45 למנה • אלדברי",
+    "description": "ברוכים הבאים לעולם שבו השולחן הוא לא רק רהיט פשוט, אלא לב הפועם של הבית ומרכז החיים שלנו. האם חשבתם פעם כמה רגעים מיוחדים וחשובים מתרחשים ממש סביב השולחן?",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/השולחן-כמרכז-החיים"
+  },
+  "h1": "השולחן כמרכז החיים",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "dd97e884b1f93dcd",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%94%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%9b%d7%9e%d7%a8%d7%9b%d7%96-%d7%94%d7%97%d7%99%d7%99%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%94%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%9b%d7%9e%d7%a8%d7%9b%d7%96-%d7%94%d7%97%d7%99%d7%99%d7%9d/",
+                "name": "השולחן כמרכז החיים"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

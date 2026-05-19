@@ -1,0 +1,64 @@
+{
+  "slug": "רווחיות-ויציבות-פיננסית",
+  "url_original": "https://www.elderberrycatering.com/%d7%a8%d7%95%d7%95%d7%97%d7%99%d7%95%d7%aa-%d7%95%d7%99%d7%a6%d7%99%d7%91%d7%95%d7%aa-%d7%a4%d7%99%d7%a0%d7%a0%d7%a1%d7%99%d7%aa/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "רווחיות ויציבות פיננסית מ-₪45 למנה • אלדברי",
+    "description": "ברוכים הבאים לעולם העסקים! כמו שכל ילד יודע, אם רוצים לבנות מגדל לגו גבוה וחזק, צריך בסיס איתן. כך גם בעולם העסקים – כדי שעסק יצליח ויתפתח, הוא צריך שני דברים",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/רווחיות-ויציבות-פיננסית"
+  },
+  "h1": "רווחיות ויציבות פיננסית",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "c12f237f6a26aa4f",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a8%d7%95%d7%95%d7%97%d7%99%d7%95%d7%aa-%d7%95%d7%99%d7%a6%d7%99%d7%91%d7%95%d7%aa-%d7%a4%d7%99%d7%a0%d7%a0%d7%a1%d7%99%d7%aa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a8%d7%95%d7%95%d7%97%d7%99%d7%95%d7%aa-%d7%95%d7%99%d7%a6%d7%99%d7%91%d7%95%d7%aa-%d7%a4%d7%99%d7%a0%d7%a0%d7%a1%d7%99%d7%aa/",
+                "name": "רווחיות ויציבות פיננסית"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "קייטרינג-דיגיטלי-העתיד-כבר-כאן",
+  "url_original": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99-%d7%94%d7%a2%d7%aa%d7%99%d7%93-%d7%9b%d7%91%d7%a8-%d7%9b%d7%90%d7%9f/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "קייטרינג דיגיטלי: העתיד כבר כאן? מ-₪45 למנה • אלדברי",
+    "description": "היי לכולם! ברוכים הבאים לעולם הטעים של הקייטרינג. תארו לכם רגע שאתם חוגגים יום הולדת, או אולי מפגש משפחתי גדול, וכל האוכל המדהים פשוט מגיע עד אליכם, מוכן, חם",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/קייטרינג-דיגיטלי-העתיד-כבר-כאן"
+  },
+  "h1": "קייטרינג דיגיטלי: העתיד כבר כאן?",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "2cb145f604f9985a",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99-%d7%94%d7%a2%d7%aa%d7%99%d7%93-%d7%9b%d7%91%d7%a8-%d7%9b%d7%90%d7%9f/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99-%d7%94%d7%a2%d7%aa%d7%99%d7%93-%d7%9b%d7%91%d7%a8-%d7%9b%d7%90%d7%9f/",
+                "name": "קייטרינג דיגיטלי: העתיד כבר כאן?"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

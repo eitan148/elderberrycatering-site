@@ -1,0 +1,64 @@
+{
+  "slug": "נשמח-לעמוד-לשירותכם",
+  "url_original": "https://www.elderberrycatering.com/%d7%a0%d7%a9%d7%9e%d7%97-%d7%9c%d7%a2%d7%9e%d7%95%d7%93-%d7%9c%d7%a9%d7%99%d7%a8%d7%95%d7%aa%d7%9b%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "נשמח לעמוד לשירותכם מ-₪45 למנה • אלדברי",
+    "description": "האם אתם מתכננים מסיבת יום הולדת, חג משפחתי גדול, או אולי אירוע מיוחד שאתם רוצים שכולם יזכרו? רגע לפני שאתם מתחילים לדאוג לגבי הבישולים, הקניות וההכנות",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/נשמח-לעמוד-לשירותכם"
+  },
+  "h1": "נשמח לעמוד לשירותכם",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "ad470e3b1f6014fb",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a0%d7%a9%d7%9e%d7%97-%d7%9c%d7%a2%d7%9e%d7%95%d7%93-%d7%9c%d7%a9%d7%99%d7%a8%d7%95%d7%aa%d7%9b%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a0%d7%a9%d7%9e%d7%97-%d7%9c%d7%a2%d7%9e%d7%95%d7%93-%d7%9c%d7%a9%d7%99%d7%a8%d7%95%d7%aa%d7%9b%d7%9d/",
+                "name": "נשמח לעמוד לשירותכם"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

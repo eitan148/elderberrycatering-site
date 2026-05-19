@@ -1,0 +1,64 @@
+{
+  "slug": "מפיות-ממותגות-וכלי-הגשה-מיוחדים",
+  "url_original": "https://www.elderberrycatering.com/%d7%9e%d7%a4%d7%99%d7%95%d7%aa-%d7%9e%d7%9e%d7%95%d7%aa%d7%92%d7%95%d7%aa-%d7%95%d7%9b%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%94-%d7%9e%d7%99%d7%95%d7%97%d7%93%d7%99%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "מפיות ממותגות וכלי הגשה מיוחדים מ-₪45 למנה • אלדברי",
+    "description": "האם אתם זוכרים אירוע שבו הכול פשוט \"הרגיש\" מושלם? זה לא רק האוכל הטעים, המוזיקה או החברים הטובים. לעיתים קרובות, אלה הם דווקא הפרטים הקטנים, אלה שלפעמים אפילו",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/מפיות-ממותגות-וכלי-הגשה-מיוחדים"
+  },
+  "h1": "מפיות ממותגות וכלי הגשה מיוחדים",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "4c6666f18b07d991",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%9e%d7%a4%d7%99%d7%95%d7%aa-%d7%9e%d7%9e%d7%95%d7%aa%d7%92%d7%95%d7%aa-%d7%95%d7%9b%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%94-%d7%9e%d7%99%d7%95%d7%97%d7%93%d7%99%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%9e%d7%a4%d7%99%d7%95%d7%aa-%d7%9e%d7%9e%d7%95%d7%aa%d7%92%d7%95%d7%aa-%d7%95%d7%9b%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%94-%d7%9e%d7%99%d7%95%d7%97%d7%93%d7%99%d7%9d/",
+                "name": "מפיות ממותגות וכלי הגשה מיוחדים"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

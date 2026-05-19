@@ -1,0 +1,64 @@
+{
+  "slug": "קייטרינג-לאירועי-ספורט",
+  "url_original": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99-%d7%a1%d7%a4%d7%95%d7%a8%d7%98/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "קייטרינג לאירועי ספורט מ-₪45 למנה • אלדברי",
+    "description": "ברוכים הבאים לעולם המרגש של קייטרינג לאירועי ספורט! כשחושבים על אירועי ספורט, ישר קופצים לראש רגעים של התרגשות, אדרנלין, ניצחונות מרגשים ואפילו הפסדים",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/קייטרינג-לאירועי-ספורט"
+  },
+  "h1": "קייטרינג לאירועי ספורט",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "a42ce8af3b9156b2",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99-%d7%a1%d7%a4%d7%95%d7%a8%d7%98/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99-%d7%a1%d7%a4%d7%95%d7%a8%d7%98/",
+                "name": "קייטרינג לאירועי ספורט"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

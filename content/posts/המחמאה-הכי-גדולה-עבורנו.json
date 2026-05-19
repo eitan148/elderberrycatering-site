@@ -1,0 +1,64 @@
+{
+  "slug": "המחמאה-הכי-גדולה-עבורנו",
+  "url_original": "https://www.elderberrycatering.com/%d7%94%d7%9e%d7%97%d7%9e%d7%90%d7%94-%d7%94%d7%9b%d7%99-%d7%92%d7%93%d7%95%d7%9c%d7%94-%d7%a2%d7%91%d7%95%d7%a8%d7%a0%d7%95/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "המחמאה הכי גדולה עבורנו מ-₪45 למנה • אלדברי",
+    "description": "המחמאה הכי גדולה עבורנו",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/המחמאה-הכי-גדולה-עבורנו"
+  },
+  "h1": "המחמאה הכי גדולה עבורנו",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "2b832bb282d07b11",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%94%d7%9e%d7%97%d7%9e%d7%90%d7%94-%d7%94%d7%9b%d7%99-%d7%92%d7%93%d7%95%d7%9c%d7%94-%d7%a2%d7%91%d7%95%d7%a8%d7%a0%d7%95/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%94%d7%9e%d7%97%d7%9e%d7%90%d7%94-%d7%94%d7%9b%d7%99-%d7%92%d7%93%d7%95%d7%9c%d7%94-%d7%a2%d7%91%d7%95%d7%a8%d7%a0%d7%95/",
+                "name": "המחמאה הכי גדולה עבורנו"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

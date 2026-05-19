@@ -1,0 +1,64 @@
+{
+  "slug": "תפריטים-דלי-שומן",
+  "url_original": "https://www.elderberrycatering.com/%d7%aa%d7%a4%d7%a8%d7%99%d7%98%d7%99%d7%9d-%d7%93%d7%9c%d7%99-%d7%a9%d7%95%d7%9e%d7%9f/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "תפריטים דלי שומן מ-₪45 למנה • אלדברי",
+    "description": "ברוכים הבאים לעולם המופלא של תפריטים דלי שומן! אולי אתם חושבים שאוכל דל שומן הוא משעמם, חסר טעם או מיועד רק למי שרוצה לרדת במשקל. ובכן, תחשבו שוב! במאמר הזה",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/תפריטים-דלי-שומן"
+  },
+  "h1": "תפריטים דלי שומן",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "ee27caf5e6039fc9",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%aa%d7%a4%d7%a8%d7%99%d7%98%d7%99%d7%9d-%d7%93%d7%9c%d7%99-%d7%a9%d7%95%d7%9e%d7%9f/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%aa%d7%a4%d7%a8%d7%99%d7%98%d7%99%d7%9d-%d7%93%d7%9c%d7%99-%d7%a9%d7%95%d7%9e%d7%9f/",
+                "name": "תפריטים דלי שומן"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

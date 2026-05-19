@@ -1,0 +1,64 @@
+{
+  "slug": "יצירת-תוכן-בעל-ערך-ללקוחות",
+  "url_original": "https://www.elderberrycatering.com/%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%aa%d7%95%d7%9b%d7%9f-%d7%91%d7%a2%d7%9c-%d7%a2%d7%a8%d7%9a-%d7%9c%d7%9c%d7%a7%d7%95%d7%97%d7%95%d7%aa/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "יצירת תוכן בעל ערך ללקוחות מ-₪45 למנה • אלדברי",
+    "description": "יצירת תוכן בעל ערך ללקוחות: האוכל שמדבר אל הלב",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/יצירת-תוכן-בעל-ערך-ללקוחות"
+  },
+  "h1": "יצירת תוכן בעל ערך ללקוחות",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "8220611f1fbeaa06",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%aa%d7%95%d7%9b%d7%9f-%d7%91%d7%a2%d7%9c-%d7%a2%d7%a8%d7%9a-%d7%9c%d7%9c%d7%a7%d7%95%d7%97%d7%95%d7%aa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%aa%d7%95%d7%9b%d7%9f-%d7%91%d7%a2%d7%9c-%d7%a2%d7%a8%d7%9a-%d7%9c%d7%9c%d7%a7%d7%95%d7%97%d7%95%d7%aa/",
+                "name": "יצירת תוכן בעל ערך ללקוחות"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

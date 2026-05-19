@@ -1,0 +1,64 @@
+{
+  "slug": "אחריות-ובטיחות-מעל-הכל",
+  "url_original": "https://www.elderberrycatering.com/%d7%90%d7%97%d7%a8%d7%99%d7%95%d7%aa-%d7%95%d7%91%d7%98%d7%99%d7%97%d7%95%d7%aa-%d7%9e%d7%a2%d7%9c-%d7%94%d7%9b%d7%9c/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "אחריות ובטיחות מעל הכל מ-₪45 למנה • אלדברי",
+    "description": "היי לכם! ברוכים הבאים למאמר מיוחד וחשוב במיוחד, שנדבר בו על משהו שנוגע לכולנו: אחריות ובטיחות. אולי המילים האלה נשמעות קצת \"מבוגרות\" או \"רציניות\", אבל האמת",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/אחריות-ובטיחות-מעל-הכל"
+  },
+  "h1": "אחריות ובטיחות מעל הכל",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "dcbeb6b5da3b050c",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%90%d7%97%d7%a8%d7%99%d7%95%d7%aa-%d7%95%d7%91%d7%98%d7%99%d7%97%d7%95%d7%aa-%d7%9e%d7%a2%d7%9c-%d7%94%d7%9b%d7%9c/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%90%d7%97%d7%a8%d7%99%d7%95%d7%aa-%d7%95%d7%91%d7%98%d7%99%d7%97%d7%95%d7%aa-%d7%9e%d7%a2%d7%9c-%d7%94%d7%9b%d7%9c/",
+                "name": "אחריות ובטיחות מעל הכל"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

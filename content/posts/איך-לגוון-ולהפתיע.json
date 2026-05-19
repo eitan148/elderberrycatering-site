@@ -1,0 +1,64 @@
+{
+  "slug": "איך-לגוון-ולהפתיע",
+  "url_original": "https://www.elderberrycatering.com/%d7%90%d7%99%d7%9a-%d7%9c%d7%92%d7%95%d7%95%d7%9f-%d7%95%d7%9c%d7%94%d7%a4%d7%aa%d7%99%d7%a2/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "איך לגוון ולהפתיע? מ-₪45 למנה • אלדברי",
+    "description": "היי לכם, ילדים וגם מבוגרים! בואו נחשוב יחד רגע על אוכל. כולנו אוהבים לאכול, נכון? אבל מה קורה כשכל פעם אנחנו אוכלים את אותו הדבר? זה יכול להיות קצת משעמם,",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/איך-לגוון-ולהפתיע"
+  },
+  "h1": "איך לגוון ולהפתיע?",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "e2b320c89ce4b0e0",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%90%d7%99%d7%9a-%d7%9c%d7%92%d7%95%d7%95%d7%9f-%d7%95%d7%9c%d7%94%d7%a4%d7%aa%d7%99%d7%a2/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%90%d7%99%d7%9a-%d7%9c%d7%92%d7%95%d7%95%d7%9f-%d7%95%d7%9c%d7%94%d7%a4%d7%aa%d7%99%d7%a2/",
+                "name": "איך לגוון ולהפתיע?"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

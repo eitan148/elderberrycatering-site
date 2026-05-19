@@ -1,0 +1,64 @@
+{
+  "slug": "איך-לתכנן-תפריט-קייטרינג-מנצח-2",
+  "url_original": "https://www.elderberrycatering.com/%d7%90%d7%99%d7%9a-%d7%9c%d7%aa%d7%9b%d7%a0%d7%9f-%d7%aa%d7%a4%d7%a8%d7%99%d7%98-%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9e%d7%a0%d7%a6%d7%97-2/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "איך לתכנן תפריט קייטרינג מנצח? מ-₪45 למנה • אלדברי",
+    "description": "איך לתכנן תפריט קייטרינג מנצח? כשאתם מארגנים אירוע, בין אם זו מסיבת יום הולדת גדולה, מפגש משפחתי, או כל שמחה אחרת, האוכל הוא לרוב אחד הדברים שהאורחים הכי",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/איך-לתכנן-תפריט-קייטרינג-מנצח-2"
+  },
+  "h1": "איך לתכנן תפריט קייטרינג מנצח?",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "be23b93361f7b03a",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%90%d7%99%d7%9a-%d7%9c%d7%aa%d7%9b%d7%a0%d7%9f-%d7%aa%d7%a4%d7%a8%d7%99%d7%98-%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9e%d7%a0%d7%a6%d7%97-2/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%90%d7%99%d7%9a-%d7%9c%d7%aa%d7%9b%d7%a0%d7%9f-%d7%aa%d7%a4%d7%a8%d7%99%d7%98-%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9e%d7%a0%d7%a6%d7%97-2/",
+                "name": "איך לתכנן תפריט קייטרינג מנצח?"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

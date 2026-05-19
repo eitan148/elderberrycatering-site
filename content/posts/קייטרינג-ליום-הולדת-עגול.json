@@ -1,0 +1,64 @@
+{
+  "slug": "קייטרינג-ליום-הולדת-עגול",
+  "url_original": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%a2%d7%92%d7%95%d7%9c/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "קייטרינג ליום הולדת עגול מ-₪45 למנה • אלדברי",
+    "description": "יום הולדת עגול הוא אירוע ממש מיוחד! זה לא סתם עוד יום הולדת, אלא ציון דרך בחיים. תחשבו על זה – גיל 10, גיל 20, גיל 30, או אפילו 50, 60, 70 ועוד! כל עשור",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/קייטרינג-ליום-הולדת-עגול"
+  },
+  "h1": "קייטרינג ליום הולדת עגול",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "0ce3c69f645a06ff",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%a2%d7%92%d7%95%d7%9c/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%a2%d7%92%d7%95%d7%9c/",
+                "name": "קייטרינג ליום הולדת עגול"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

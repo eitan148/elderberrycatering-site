@@ -1,0 +1,97 @@
+{
+  "slug": "blog",
+  "url_original": "https://www.elderberrycatering.com/blog/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 4,
+  "meta": {
+    "title": "קייטרינג כשר למהדרין בד\"ץ העדה החרדית • קייטרינג אלדברי",
+    "description": "",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/blog"
+  },
+  "h1": "",
+  "h1_subtitle_html": "או השאירו פרטים ונחזור אליכם במהירות:",
+  "h1_subtitle_text": "או השאירו פרטים ונחזור אליכם במהירות:",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "da39a3ee5e6b4b0d",
+    "h1_subtitle": "b2b8d544a30fabe2",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Restaurant",
+          "@id": "https://www.elderberrycatering.com/#organization",
+          "name": "קייטרינג אלדברי",
+          "url": "https://www.elderberrycatering.com",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://www.elderberrycatering.com/#logo",
+            "url": "https://www.elderberrycatering.com/wp-content/uploads/2022/12/symbol-g85dd1d125_1280-1.jpg",
+            "contentUrl": "https://www.elderberrycatering.com/wp-content/uploads/2022/12/symbol-g85dd1d125_1280-1.jpg",
+            "caption": "קייטרינג אלדברי",
+            "inLanguage": "he-IL",
+            "width": "250",
+            "height": "123"
+          },
+          "priceRange": "$-$$$$$",
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Sunday 00:00-23:49",
+            "Friday 00:00-11:00"
+          ],
+          "image": {
+            "@id": "https://www.elderberrycatering.com/#logo"
+          },
+          "telephone": "0723909716"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://www.elderberrycatering.com/#website",
+          "url": "https://www.elderberrycatering.com",
+          "name": "קייטרינג אלדברי",
+          "alternateName": "קייטרינג בד\"ץ העדה החרדית",
+          "publisher": {
+            "@id": "https://www.elderberrycatering.com/#organization"
+          },
+          "inLanguage": "he-IL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/blog/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://www.elderberrycatering.com/blog/#webpage",
+          "url": "https://www.elderberrycatering.com/blog/",
+          "name": "קייטרינג כשר למהדרין בד&quot;ץ העדה החרדית • קייטרינג אלדברי",
+          "isPartOf": {
+            "@id": "https://www.elderberrycatering.com/#website"
+          },
+          "inLanguage": "he-IL",
+          "breadcrumb": {
+            "@id": "https://www.elderberrycatering.com/blog/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

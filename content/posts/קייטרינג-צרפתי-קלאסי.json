@@ -1,0 +1,60 @@
+{
+  "slug": "קייטרינג-צרפתי-קלאסי",
+  "url_original": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%a6%d7%a8%d7%a4%d7%aa%d7%99-%d7%a7%d7%9c%d7%90%d7%a1%d7%99/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "קייטרינג צרפתי קלאסי מ-₪45 למנה • אלדברי",
+    "description": "ברוכים הבאים לעולם הקסום של הקולינריה הצרפתית! האם אי פעם חשבתם מה הופך את המטבח הצרפתי למיוחד כל כך? הוא מפורסם בכל העולם בזכות הטעמים העשירים שלו, ההגשה",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/קייטרינג-צרפתי-קלאסי"
+  },
+  "h1": "קייטרינג צרפתי קלאסי",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "d1e0990b134ce5b5",
+    "h2": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%a6%d7%a8%d7%a4%d7%aa%d7%99-%d7%a7%d7%9c%d7%90%d7%a1%d7%99/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%a6%d7%a8%d7%a4%d7%aa%d7%99-%d7%a7%d7%9c%d7%90%d7%a1%d7%99/",
+                "name": "קייטרינג צרפתי קלאסי"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

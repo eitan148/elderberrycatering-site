@@ -1,0 +1,105 @@
+{
+  "slug": "category-מאמרים",
+  "url_original": "https://www.elderberrycatering.com/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "category",
+  "sections_count": 4,
+  "meta": {
+    "title": "מאמרים • קייטרינג אלדרברי",
+    "description": "",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/category/מאמרים"
+  },
+  "h1": "",
+  "h1_subtitle_html": "או השאירו פרטים ונחזור אליכם במהירות:",
+  "h1_subtitle_text": "או השאירו פרטים ונחזור אליכם במהירות:",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "da39a3ee5e6b4b0d",
+    "h1_subtitle": "b2b8d544a30fabe2",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Restaurant",
+          "@id": "https://www.elderberrycatering.com/#organization",
+          "name": "קייטרינג אלדברי",
+          "url": "https://www.elderberrycatering.com",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://www.elderberrycatering.com/#logo",
+            "url": "https://www.elderberrycatering.com/wp-content/uploads/2022/12/symbol-g85dd1d125_1280-1.jpg",
+            "contentUrl": "https://www.elderberrycatering.com/wp-content/uploads/2022/12/symbol-g85dd1d125_1280-1.jpg",
+            "caption": "קייטרינג אלדברי",
+            "inLanguage": "he-IL",
+            "width": "250",
+            "height": "123"
+          },
+          "priceRange": "$-$$$$$",
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Sunday 00:00-23:49",
+            "Friday 00:00-11:00"
+          ],
+          "image": {
+            "@id": "https://www.elderberrycatering.com/#logo"
+          },
+          "telephone": "0723909716"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://www.elderberrycatering.com/#website",
+          "url": "https://www.elderberrycatering.com",
+          "name": "קייטרינג אלדברי",
+          "alternateName": "קייטרינג בד\"ץ העדה החרדית",
+          "publisher": {
+            "@id": "https://www.elderberrycatering.com/#organization"
+          },
+          "inLanguage": "he-IL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "name": "מאמרים"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://www.elderberrycatering.com/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#webpage",
+          "url": "https://www.elderberrycatering.com/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+          "name": "מאמרים &bull; קייטרינג אלדרברי",
+          "isPartOf": {
+            "@id": "https://www.elderberrycatering.com/#website"
+          },
+          "inLanguage": "he-IL",
+          "breadcrumb": {
+            "@id": "https://www.elderberrycatering.com/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

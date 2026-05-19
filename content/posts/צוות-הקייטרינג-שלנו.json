@@ -1,0 +1,64 @@
+{
+  "slug": "צוות-הקייטרינג-שלנו",
+  "url_original": "https://www.elderberrycatering.com/%d7%a6%d7%95%d7%95%d7%aa-%d7%94%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%a9%d7%9c%d7%a0%d7%95/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "צוות הקייטרינג שלנו מ-₪45 למנה • אלדברי",
+    "description": "האם אי פעם תהיתם מי עומד מאחורי האוכל הטעים והאירועים המרהיבים שאתם רואים? ובכן, בטח שמעתם על אלדרברי קייטרינג, ואנחנו רוצים לספר לכם על הלב הפועם של החברה",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/צוות-הקייטרינג-שלנו"
+  },
+  "h1": "צוות הקייטרינג שלנו",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "f68cd87d53b13679",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a6%d7%95%d7%95%d7%aa-%d7%94%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%a9%d7%9c%d7%a0%d7%95/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a6%d7%95%d7%95%d7%aa-%d7%94%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%a9%d7%9c%d7%a0%d7%95/",
+                "name": "צוות הקייטרינג שלנו"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

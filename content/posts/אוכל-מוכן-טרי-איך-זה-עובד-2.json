@@ -1,0 +1,64 @@
+{
+  "slug": "אוכל-מוכן-טרי-איך-זה-עובד-2",
+  "url_original": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%9e%d7%95%d7%9b%d7%9f-%d7%98%d7%a8%d7%99-%d7%90%d7%99%d7%9a-%d7%96%d7%94-%d7%a2%d7%95%d7%91%d7%93-2/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "אוכל מוכן טרי: איך זה עובד? מ-₪45 למנה • אלדברי",
+    "description": "דמיינו שיש לכם קסם קטן במטבח. אתם רק צריכים לרצות, והנה – ארוחה טעימה, מזינה וטרייה מחכה לכם, בלי שביליתם שעות בבישול וניקיון. נשמע כמו חלום, נכון? זה לא ממש",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/אוכל-מוכן-טרי-איך-זה-עובד-2"
+  },
+  "h1": "אוכל מוכן טרי: איך זה עובד?",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "e320b72e3bd9ba5b",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%9e%d7%95%d7%9b%d7%9f-%d7%98%d7%a8%d7%99-%d7%90%d7%99%d7%9a-%d7%96%d7%94-%d7%a2%d7%95%d7%91%d7%93-2/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%9e%d7%95%d7%9b%d7%9f-%d7%98%d7%a8%d7%99-%d7%90%d7%99%d7%9a-%d7%96%d7%94-%d7%a2%d7%95%d7%91%d7%93-2/",
+                "name": "אוכל מוכן טרי: איך זה עובד?"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

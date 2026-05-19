@@ -9,6 +9,7 @@ export type PageRecord = {
   url_original: string;
   is_homepage?: boolean;
   is_contact?: boolean;
+  kind?: "page" | "post" | "category" | "other";
   meta: {
     title: string;
     description: string;
@@ -48,6 +49,7 @@ export type ChromeBlocks = {
 const pageCache = new Map<string, PageRecord | null>();
 let chromeCache: ChromeBlocks | null = null;
 let cssListCache: string[] | null = null;
+let allRoutableCache: { slug: string; type: "page" | "post"; isHomepage?: boolean; isContact?: boolean }[] | null = null;
 
 function readJSON<T>(rel: string): T | null {
   try {
@@ -78,16 +80,19 @@ export function getPageBySlug(slug: string): PageRecord | null {
     encodeURIComponent(decoded).toLowerCase(),
     encodeURIComponent(decoded),
   ]));
-  for (const c of candidates) {
-    const key = `pages/${c}.json`;
-    if (pageCache.has(key)) {
-      const cached = pageCache.get(key)!;
-      if (cached) return cached;
-      continue;
+  // Search in both pages/ and posts/ (and category fallback)
+  for (const sub of ["pages", "posts"]) {
+    for (const c of candidates) {
+      const key = `${sub}/${c}.json`;
+      if (pageCache.has(key)) {
+        const cached = pageCache.get(key)!;
+        if (cached) return cached;
+        continue;
+      }
+      const r = readJSON<PageRecord>(`${sub}/${c}.json`);
+      pageCache.set(key, r);
+      if (r) return r;
     }
-    const r = readJSON<PageRecord>(`pages/${c}.json`);
-    pageCache.set(key, r);
-    if (r) return r;
   }
   return null;
 }
@@ -101,11 +106,33 @@ export function listAllPages(): PageRecord[] {
   return out;
 }
 
+export function listAllPosts(): PageRecord[] {
+  const out: PageRecord[] = [];
+  for (const f of readDirSafe("posts")) {
+    const r = readJSON<PageRecord>(`posts/${f}`);
+    if (r) out.push(r);
+  }
+  return out;
+}
+
 export function listAllRoutableSlugs(): { slug: string; type: "page" | "post"; isHomepage?: boolean; isContact?: boolean }[] {
-  const pages = listAllPages();
-  return pages
-    .filter((p) => p.slug !== "home")
-    .map((p) => ({ slug: p.slug, type: "page" as const, isHomepage: !!p.is_homepage, isContact: !!p.is_contact }));
+  if (allRoutableCache) return allRoutableCache;
+  const seen = new Set<string>();
+  const out: { slug: string; type: "page" | "post"; isHomepage?: boolean; isContact?: boolean }[] = [];
+  for (const p of listAllPages()) {
+    if (p.slug === "home") continue;
+    if (seen.has(p.slug)) continue;
+    seen.add(p.slug);
+    out.push({ slug: p.slug, type: "page", isHomepage: !!p.is_homepage, isContact: !!p.is_contact });
+  }
+  for (const p of listAllPosts()) {
+    if (p.slug === "home") continue;
+    if (seen.has(p.slug)) continue;
+    seen.add(p.slug);
+    out.push({ slug: p.slug, type: "post", isHomepage: false, isContact: !!p.is_contact });
+  }
+  allRoutableCache = out;
+  return out;
 }
 
 export function getChrome(): ChromeBlocks {
@@ -149,14 +176,4 @@ export function substituteH2(html: string, newH2: string): string {
 
 function escapeHTML(s: string): string {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
-}
-
-/** Rewrite absolute https://www.elderberrycatering.com/wp-content/... URLs in HTML to local /images/ paths via the asset-map. */
-export function rewriteAssetUrls(html: string, assetMap: Record<string, string>): string {
-  if (!html) return "";
-  return html.replace(/https?:\/\/www\.elderberrycatering\.com\/wp-content\/uploads\/[^\s"'>)]+/g, (m) => {
-    const cleaned = m.replace(/\?.*$/, "");
-    const local = assetMap[m] || assetMap[cleaned];
-    return local || m;
-  });
 }

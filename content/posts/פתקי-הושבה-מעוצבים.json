@@ -1,0 +1,64 @@
+{
+  "slug": "פתקי-הושבה-מעוצבים",
+  "url_original": "https://www.elderberrycatering.com/%d7%a4%d7%aa%d7%a7%d7%99-%d7%94%d7%95%d7%a9%d7%91%d7%94-%d7%9e%d7%a2%d7%95%d7%a6%d7%91%d7%99%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "פתקי הושבה מעוצבים מ-₪45 למנה • אלדברי",
+    "description": "כשאנחנו הולכים לאירוע גדול כמו חתונה של קרובי משפחה, בר מצווה של חבר טוב, או אפילו מסיבת יום הולדת ענקית, יש כל כך הרבה דברים מרגשים לראות ולעשות. יש מוזיקה,",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/פתקי-הושבה-מעוצבים"
+  },
+  "h1": "פתקי הושבה מעוצבים",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "5a6437cfeb1c2980",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a4%d7%aa%d7%a7%d7%99-%d7%94%d7%95%d7%a9%d7%91%d7%94-%d7%9e%d7%a2%d7%95%d7%a6%d7%91%d7%99%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a4%d7%aa%d7%a7%d7%99-%d7%94%d7%95%d7%a9%d7%91%d7%94-%d7%9e%d7%a2%d7%95%d7%a6%d7%91%d7%99%d7%9d/",
+                "name": "פתקי הושבה מעוצבים"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

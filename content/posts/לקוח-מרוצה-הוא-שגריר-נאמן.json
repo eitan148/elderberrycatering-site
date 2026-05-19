@@ -1,0 +1,64 @@
+{
+  "slug": "לקוח-מרוצה-הוא-שגריר-נאמן",
+  "url_original": "https://www.elderberrycatering.com/%d7%9c%d7%a7%d7%95%d7%97-%d7%9e%d7%a8%d7%95%d7%a6%d7%94-%d7%94%d7%95%d7%90-%d7%a9%d7%92%d7%a8%d7%99%d7%a8-%d7%a0%d7%90%d7%9e%d7%9f/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "לקוח מרוצה הוא שגריר נאמן מ-₪45 למנה • אלדברי",
+    "description": "האם אי פעם אכלתם משהו כל כך טעים, שמיד רציתם לספר לכל החברים והמשפחה שלכם על המקום שבו מצאתם אותו? זה בדיוק מה שקורה כשלקוח מרוצה פוגש קייטרינג מצוין. זה לא",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/לקוח-מרוצה-הוא-שגריר-נאמן"
+  },
+  "h1": "לקוח מרוצה הוא שגריר נאמן",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "a2321672672947c5",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%9c%d7%a7%d7%95%d7%97-%d7%9e%d7%a8%d7%95%d7%a6%d7%94-%d7%94%d7%95%d7%90-%d7%a9%d7%92%d7%a8%d7%99%d7%a8-%d7%a0%d7%90%d7%9e%d7%9f/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%9c%d7%a7%d7%95%d7%97-%d7%9e%d7%a8%d7%95%d7%a6%d7%94-%d7%94%d7%95%d7%90-%d7%a9%d7%92%d7%a8%d7%99%d7%a8-%d7%a0%d7%90%d7%9e%d7%9f/",
+                "name": "לקוח מרוצה הוא שגריר נאמן"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

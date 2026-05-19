@@ -1,0 +1,64 @@
+{
+  "slug": "קייטרינג-לחתונות-קטנות",
+  "url_original": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9c%d7%97%d7%aa%d7%95%d7%a0%d7%95%d7%aa-%d7%a7%d7%98%d7%a0%d7%95%d7%aa/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "קייטרינג לחתונות קטנות מ-₪45 למנה • אלדברי",
+    "description": "האם אי פעם דמיינתם חתונה שבה אתם יכולים לדבר עם כל אורח, להרגיש קרובים לכולם, וליהנות מכל רגע בלי לחץ? חתונה קטנה היא בדיוק כזו – היא כמו מסיבה גדולה, אבל עם",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/קייטרינג-לחתונות-קטנות"
+  },
+  "h1": "קייטרינג לחתונות קטנות",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "8345315986cb5af3",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9c%d7%97%d7%aa%d7%95%d7%a0%d7%95%d7%aa-%d7%a7%d7%98%d7%a0%d7%95%d7%aa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9c%d7%97%d7%aa%d7%95%d7%a0%d7%95%d7%aa-%d7%a7%d7%98%d7%a0%d7%95%d7%aa/",
+                "name": "קייטרינג לחתונות קטנות"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

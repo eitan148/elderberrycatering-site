@@ -1,0 +1,64 @@
+{
+  "slug": "איך-לבחור-חברת-קייטרינג-לאירוע",
+  "url_original": "https://www.elderberrycatering.com/%d7%90%d7%99%d7%9a-%d7%9c%d7%91%d7%97%d7%95%d7%a8-%d7%97%d7%91%d7%a8%d7%aa-%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "איך לבחור חברת קייטרינג לאירוע? מ-₪45 למנה • אלדברי",
+    "description": "דמיינו לרגע את האירוע המושלם. אולי זו מסיבת יום הולדת גדולה, אולי מפגש משפחתי חגיגי, או אפילו ארוחת ערב מיוחדת בבית. מה הדבר הראשון שעולה לכם בראש כשאתם",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/איך-לבחור-חברת-קייטרינג-לאירוע"
+  },
+  "h1": "איך לבחור חברת קייטרינג לאירוע?",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "b02f69f05ef77886",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%90%d7%99%d7%9a-%d7%9c%d7%91%d7%97%d7%95%d7%a8-%d7%97%d7%91%d7%a8%d7%aa-%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%90%d7%99%d7%9a-%d7%9c%d7%91%d7%97%d7%95%d7%a8-%d7%97%d7%91%d7%a8%d7%aa-%d7%a7%d7%99%d7%99%d7%98%d7%a8%d7%99%d7%a0%d7%92-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2/",
+                "name": "איך לבחור חברת קייטרינג לאירוע?"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

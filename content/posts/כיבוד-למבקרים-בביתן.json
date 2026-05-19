@@ -1,0 +1,64 @@
+{
+  "slug": "כיבוד-למבקרים-בביתן",
+  "url_original": "https://www.elderberrycatering.com/%d7%9b%d7%99%d7%91%d7%95%d7%93-%d7%9c%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d-%d7%91%d7%91%d7%99%d7%aa%d7%9f/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "כיבוד למבקרים בביתן מ-₪45 למנה • אלדברי",
+    "description": "ברוכים הבאים! דמיינו שאתם נכנסים לביתן שונה, כזה שמרגיש כמו בית ולא סתם מקום עסקים. מקום שבו לא רק מדברים איתכם, אלא גם דואגים לכם ונותנים לכם תחושה טובה. איך",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/כיבוד-למבקרים-בביתן"
+  },
+  "h1": "כיבוד למבקרים בביתן",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "f28290699ea5102e",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%9b%d7%99%d7%91%d7%95%d7%93-%d7%9c%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d-%d7%91%d7%91%d7%99%d7%aa%d7%9f/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%9b%d7%99%d7%91%d7%95%d7%93-%d7%9c%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d-%d7%91%d7%91%d7%99%d7%aa%d7%9f/",
+                "name": "כיבוד למבקרים בביתן"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

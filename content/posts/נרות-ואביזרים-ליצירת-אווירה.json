@@ -1,0 +1,64 @@
+{
+  "slug": "נרות-ואביזרים-ליצירת-אווירה",
+  "url_original": "https://www.elderberrycatering.com/%d7%a0%d7%a8%d7%95%d7%aa-%d7%95%d7%90%d7%91%d7%99%d7%96%d7%a8%d7%99%d7%9d-%d7%9c%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%90%d7%95%d7%95%d7%99%d7%a8%d7%94/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "נרות ואביזרים ליצירת אווירה מ-₪45 למנה • אלדברי",
+    "description": "האם אי פעם נכנסתם לחדר או לאירוע והרגשתם מיד שמשהו קסום קורה באוויר? זה לא רק האוכל הטעים או החברים שמסביב, אלא לרוב זו האווירה! אווירה היא כמו חיבוק גדול",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/נרות-ואביזרים-ליצירת-אווירה"
+  },
+  "h1": "נרות ואביזרים ליצירת אווירה",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "8c78882938676547",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a0%d7%a8%d7%95%d7%aa-%d7%95%d7%90%d7%91%d7%99%d7%96%d7%a8%d7%99%d7%9d-%d7%9c%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%90%d7%95%d7%95%d7%99%d7%a8%d7%94/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a0%d7%a8%d7%95%d7%aa-%d7%95%d7%90%d7%91%d7%99%d7%96%d7%a8%d7%99%d7%9d-%d7%9c%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%90%d7%95%d7%95%d7%99%d7%a8%d7%94/",
+                "name": "נרות ואביזרים ליצירת אווירה"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "אוכל-ישראלי-חדש-פרשנות-מודרנית",
+  "url_original": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99-%d7%97%d7%93%d7%a9-%d7%a4%d7%a8%d7%a9%d7%a0%d7%95%d7%aa-%d7%9e%d7%95%d7%93%d7%a8%d7%a0%d7%99%d7%aa/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "אוכל ישראלי חדש: פרשנות מודרנית מ-₪45 למנה • אלדברי",
+    "description": "האם אי פעם חשבתם על אוכל כעל סיפור? סיפור של מקומות, של אנשים, של תרבויות? אם כן, אז האוכל הישראלי הוא ספר ענקי ומלא בפרקים מרתקים! האוכל בישראל הוא לא סתם",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/אוכל-ישראלי-חדש-פרשנות-מודרנית"
+  },
+  "h1": "אוכל ישראלי חדש: פרשנות מודרנית",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "205e02d7eafdeee6",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99-%d7%97%d7%93%d7%a9-%d7%a4%d7%a8%d7%a9%d7%a0%d7%95%d7%aa-%d7%9e%d7%95%d7%93%d7%a8%d7%a0%d7%99%d7%aa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%90%d7%95%d7%9b%d7%9c-%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99-%d7%97%d7%93%d7%a9-%d7%a4%d7%a8%d7%a9%d7%a0%d7%95%d7%aa-%d7%9e%d7%95%d7%93%d7%a8%d7%a0%d7%99%d7%aa/",
+                "name": "אוכל ישראלי חדש: פרשנות מודרנית"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

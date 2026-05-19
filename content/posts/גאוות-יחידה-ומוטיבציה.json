@@ -1,0 +1,64 @@
+{
+  "slug": "גאוות-יחידה-ומוטיבציה",
+  "url_original": "https://www.elderberrycatering.com/%d7%92%d7%90%d7%95%d7%95%d7%aa-%d7%99%d7%97%d7%99%d7%93%d7%94-%d7%95%d7%9e%d7%95%d7%98%d7%99%d7%91%d7%a6%d7%99%d7%94/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "גאוות יחידה ומוטיבציה מ-₪45 למנה • אלדברי",
+    "description": "האם אתם מכירים את ההרגשה הזאת, כשאתם חלק מקבוצה מיוחדת, ואתם גאים במה שאתם עושים יחד? אולי זה בנבחרת הספורט שלכם, אולי בכיתה כשהכנתם פרויקט מדהים, או אפילו",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/גאוות-יחידה-ומוטיבציה"
+  },
+  "h1": "גאוות יחידה ומוטיבציה",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "2e6508c0667f03da",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%92%d7%90%d7%95%d7%95%d7%aa-%d7%99%d7%97%d7%99%d7%93%d7%94-%d7%95%d7%9e%d7%95%d7%98%d7%99%d7%91%d7%a6%d7%99%d7%94/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%92%d7%90%d7%95%d7%95%d7%aa-%d7%99%d7%97%d7%99%d7%93%d7%94-%d7%95%d7%9e%d7%95%d7%98%d7%99%d7%91%d7%a6%d7%99%d7%94/",
+                "name": "גאוות יחידה ומוטיבציה"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

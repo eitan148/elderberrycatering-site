@@ -1,0 +1,64 @@
+{
+  "slug": "מה-קורה-במקרה-של-סגר",
+  "url_original": "https://www.elderberrycatering.com/%d7%9e%d7%94-%d7%a7%d7%95%d7%a8%d7%94-%d7%91%d7%9e%d7%a7%d7%a8%d7%94-%d7%a9%d7%9c-%d7%a1%d7%92%d7%a8/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "מה קורה במקרה של סגר? מ-₪45 למנה • אלדברי",
+    "description": "שלום לכולם! בטח שמעתם פעם את המילה \"סגר\", ואולי אפילו חוויתם אותה בעצמכם. זו מילה שיכולה להישמע קצת מפחידה, אבל היא בעצם דרך של כולם לשמור על בטיחות. אז בואו",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/מה-קורה-במקרה-של-סגר"
+  },
+  "h1": "מה קורה במקרה של סגר?",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "cf74d740671cb24e",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%9e%d7%94-%d7%a7%d7%95%d7%a8%d7%94-%d7%91%d7%9e%d7%a7%d7%a8%d7%94-%d7%a9%d7%9c-%d7%a1%d7%92%d7%a8/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%9e%d7%94-%d7%a7%d7%95%d7%a8%d7%94-%d7%91%d7%9e%d7%a7%d7%a8%d7%94-%d7%a9%d7%9c-%d7%a1%d7%92%d7%a8/",
+                "name": "מה קורה במקרה של סגר?"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "סידורי-שולחן-אישיים",
+  "url_original": "https://www.elderberrycatering.com/%d7%a1%d7%99%d7%93%d7%95%d7%a8%d7%99-%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%90%d7%99%d7%a9%d7%99%d7%99%d7%9d/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "סידורי שולחן אישיים מ-₪45 למנה • אלדברי",
+    "description": "גלו איך סידורי שולחן אישיים יכולים להפוך כל אירוע לחוויה בלתי נשכחת. טיפים, רעיונות והשראה לעיצוב שולחן שידבר אל הלב של כל אורח.",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/סידורי-שולחן-אישיים"
+  },
+  "h1": "סידורי שולחן אישיים",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "ed75a01a6a6b3a18",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%a1%d7%99%d7%93%d7%95%d7%a8%d7%99-%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%90%d7%99%d7%a9%d7%99%d7%99%d7%9d/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%a1%d7%99%d7%93%d7%95%d7%a8%d7%99-%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%90%d7%99%d7%a9%d7%99%d7%99%d7%9d/",
+                "name": "סידורי שולחן אישיים"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

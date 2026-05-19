@@ -1,0 +1,64 @@
+{
+  "slug": "טכנולוגיה-וחדשנות-במטבח",
+  "url_original": "https://www.elderberrycatering.com/%d7%98%d7%9b%d7%a0%d7%95%d7%9c%d7%95%d7%92%d7%99%d7%94-%d7%95%d7%97%d7%93%d7%a9%d7%a0%d7%95%d7%aa-%d7%91%d7%9e%d7%98%d7%91%d7%97/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "טכנולוגיה וחדשנות במטבח מ-₪45 למנה • אלדברי",
+    "description": "פעם, לפני המון המון שנים, כשאנשים רצו לבשל ארוחה, זה היה סיפור שלם. הם היו צריכים לאסוף עצים כדי להדליק אש, לשאוב מים מהבאר, ולעבוד קשה מאוד כדי להכין כל דבר,",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/טכנולוגיה-וחדשנות-במטבח"
+  },
+  "h1": "טכנולוגיה וחדשנות במטבח",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "a070ec7b3c52fad3",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%98%d7%9b%d7%a0%d7%95%d7%9c%d7%95%d7%92%d7%99%d7%94-%d7%95%d7%97%d7%93%d7%a9%d7%a0%d7%95%d7%aa-%d7%91%d7%9e%d7%98%d7%91%d7%97/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%98%d7%9b%d7%a0%d7%95%d7%9c%d7%95%d7%92%d7%99%d7%94-%d7%95%d7%97%d7%93%d7%a9%d7%a0%d7%95%d7%aa-%d7%91%d7%9e%d7%98%d7%91%d7%97/",
+                "name": "טכנולוגיה וחדשנות במטבח"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}

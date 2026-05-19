@@ -1,0 +1,64 @@
+{
+  "slug": "חגיגה-משפחתית-ושמחה",
+  "url_original": "https://www.elderberrycatering.com/%d7%97%d7%92%d7%99%d7%92%d7%94-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa%d7%99%d7%aa-%d7%95%d7%a9%d7%9e%d7%97%d7%94/",
+  "is_homepage": false,
+  "is_contact": false,
+  "kind": "post",
+  "sections_count": 8,
+  "meta": {
+    "title": "חגיגה משפחתית ושמחה מ-₪45 למנה • אלדברי",
+    "description": "חגיגה משפחתית ושמחה: בונים זיכרונות יחד האם יש משהו כיף יותר מאשר לבלות זמן איכות עם המשפחה? יחד, אנחנו צוחקים, מדברים, משחקים, ובעיקר – חוגגים. חגיגות",
+    "og_image": "/images/yhswy6uqvk.jpg",
+    "canonical": "/חגיגה-משפחתית-ושמחה"
+  },
+  "h1": "חגיגה משפחתית ושמחה",
+  "h1_subtitle_html": "",
+  "h1_subtitle_text": "",
+  "h2_title_repeat": "",
+  "body_html": "",
+  "content_hashes": {
+    "h1": "b9e6d6f98403242a",
+    "h1_subtitle": "da39a3ee5e6b4b0d",
+    "h2": "da39a3ee5e6b4b0d",
+    "body_text_first5000": "da39a3ee5e6b4b0d"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.elderberrycatering.com/%d7%97%d7%92%d7%99%d7%92%d7%94-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa%d7%99%d7%aa-%d7%95%d7%a9%d7%9e%d7%97%d7%94/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://www.elderberrycatering.com",
+                "name": "דף הבית"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/category/uncategorized/",
+                "name": "כשר למהדרין"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://www.elderberrycatering.com/%d7%97%d7%92%d7%99%d7%92%d7%94-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa%d7%99%d7%aa-%d7%95%d7%a9%d7%9e%d7%97%d7%94/",
+                "name": "חגיגה משפחתית ושמחה"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body_html_left": null,
+  "body_html_right": null
+}
